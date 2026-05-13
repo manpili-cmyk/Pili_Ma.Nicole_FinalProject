@@ -69,7 +69,7 @@ The system handles:
 ## Step 1: Clone the Repository
 
 ```bash
-git clone <>
+git clone <https://github.com/manpili-cmyk/Pili_Ma.Nicole_FinalProject.git>
 ```
 
 ---
