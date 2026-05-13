@@ -1,0 +1,2 @@
+# MindTrack CLI Requirements
+# This project uses only Python standard libraries.
